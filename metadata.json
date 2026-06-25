@@ -1,0 +1,6 @@
+{
+  "name": "Tutor Match",
+  "description": "Nền tảng kết nối gia sư và học sinh thông minh, hỗ trợ học thử, tạo bài đăng tìm bạn học và tương tác trực tiếp cứu cánh học tập.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
